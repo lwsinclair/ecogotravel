@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/alisajil-ecogotravel-badge.png)](https://mseep.ai/app/alisajil-ecogotravel)
+
 Ecogo  MCP Server Implementation
 
 Created a TypeScript-based MCP server using the official MCP SDK
